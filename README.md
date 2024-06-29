@@ -7,6 +7,9 @@
 |     VISUAL STUDIO   | VISUAL STUDIO CODE  |    GIT   |   GITHUB |
 -->
 ![no carga](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github)
+![falta modelado](https://img.shields.io/badge/Framework-%23512BD4?style=flat&logo=dotnet)
+![falta color](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=%23F05032)
+
 - 👋 Hi, I’m @joshuac-ch
 - 👀 I’m interested in ...
 
