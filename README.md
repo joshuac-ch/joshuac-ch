@@ -1,4 +1,4 @@
-![Falta mas fps](https://github.com/joshuac-ch/joshuac-ch/assets/132742651/df1ac039-dae4-4f4c-8a38-c537a5a8995c)
+![Falta mas fps](https://i.pinimg.com/564x/5a/b5/49/5ab5498e1354cba4a7186f72cea9e61a.jpg)
 
 
 - 👋 Hi, I’m @joshuac-ch
