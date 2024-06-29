@@ -6,6 +6,7 @@
 | MONGODB  |  Mysql   |SQLSERVER |   COBOL  |    HTML  |    CSS   | Wordbench|  STARUML | BOOSTRAP|
 |     VISUAL STUDIO   | VISUAL STUDIO CODE  |    GIT   |   GITHUB |
 -->
+![no carga](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github)
 - 👋 Hi, I’m @joshuac-ch
 - 👀 I’m interested in ...
 
