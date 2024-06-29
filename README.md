@@ -1,7 +1,10 @@
 <!--![VdeosinttuloHechoconClipchamp2-ezgif com-video-to-gif-converter](https://github.com/joshuac-ch/joshuac-ch/assets/132742651/586d5227-9e47-4689-927e-23018e77a342)
 -->
 
-
+|JavaScript|   Java   |  Python  |    C#    |    R     |   PHP    | LARAVEL  |   .NET   |  Unity  |  
+|----------|----------|----------|----------|----------|----------|----------|----------|---------|
+| MONGODB  |  Mysql   |SQLSERVER |   COBOL  |    HTML  |    CSS   | Wordbench|  STARUML | BOOSTRAP|
+|     VISUAL STUDIO   | VISUAL STUDIO CODE  |    GIT   |   GITHUB |
 
 - 👋 Hi, I’m @joshuac-ch
 - 👀 I’m interested in ...
