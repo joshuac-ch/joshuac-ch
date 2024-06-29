@@ -1,4 +1,8 @@
-!(https://i.pinimg.com/originals/5a/b5/49/5ab5498e1354cba4a7186f72cea9e61a.jpg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/5a/b5/49/5ab5498e1354cba4a7186f72cea9e61a.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/5a/b5/49/5ab5498e1354cba4a7186f72cea9e61a.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.pinimg.com/originals/5a/b5/49/5ab5498e1354cba4a7186f72cea9e61a.jpg">
+</picture>
 
 
 - 👋 Hi, I’m @joshuac-ch
