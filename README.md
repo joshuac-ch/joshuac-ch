@@ -1,6 +1,4 @@
-<picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/df1ac039-dae4-4f4c-8a38-c537a5a8995c">
-</picture>
+![https://github.com/joshuac-ch/joshuac-ch/assets/132742651/df1ac039-dae4-4f4c-8a38-c537a5a8995c]
 
 
 - 👋 Hi, I’m @joshuac-ch
