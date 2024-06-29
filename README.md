@@ -1,7 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/461ad813-81e6-4211-a49c-581c58ff64ef">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/461ad813-81e6-4211-a49c-581c58ff64ef">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/461ad813-81e6-4211-a49c-581c58ff64ef">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/df1ac039-dae4-4f4c-8a38-c537a5a8995c">
 </picture>
 
 
@@ -13,6 +11,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
+
+
+
+
 - ⚡ Fun fact: ...
 
 <!---
