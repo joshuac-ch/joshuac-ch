@@ -27,6 +27,7 @@ https://github.com/joshuac-ch/joshuac-ch/assets/132742651/7911ad00-2f96-4c03-aa9
 ![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
 ![RSTUDIO](https://img.shields.io/badge/-R%20Studio-%23512BD4?logo=r&logoColor=%23276DC3&logoSize=20&labelColor=white&color=%23276DC3)
 ![php](https://img.shields.io/badge/-PHP-%23512BD4?logo=php&logoColor=%23777BB4&logoSize=20&labelColor=white&color=%23777BB4)
+![JAVA](https://img.shields.io/badge/-Java-%23512BD4?logoSize=20&labelColor=%23FF7800&color=%23FF7800)
 
 ![laravel](https://img.shields.io/badge/-Laravel-%23512BD4?logo=laravel&logoColor=%23FF2D20&logoSize=20&labelColor=white&color=%23FF2D20)
 ![UNITY](https://img.shields.io/badge/-Unity-%23512BD4?logo=unity&logoColor=%23FFFFFF&logoSize=20&labelColor=black&color=white)
