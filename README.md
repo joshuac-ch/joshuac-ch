@@ -45,13 +45,17 @@
 
 MEJORES PROYECTO
 ----------------
-
-
-|Proyecto 1|Proyecto2|
-|![GIT](https://img.shields.io/badge/-Git-%23512BD4?logo=git&logoColor=%23F05032&logoSize=20&labelColor=white&color=%23F05032)|![VERSION BLACK](https://img.shields.io/badge/-visual%20studio%20Code-%23512BD4?logo=visualstudiocode&logoColor=%23007ACC&logoSize=20&labelColor=black&color=%23007ACC)
-
-|![GIT HUB](https://img.shields.io/badge/-GitHub-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717)|![VISUAL ESTUDIO](https://img.shields.io/badge/-Visual%20Studio-%23512BD4?logo=visualstudio&logoColor=%235C2D91&logoSize=20&labelColor=black&color=%235C2D91)
-
+<table>
+  <thead>
+  <th>Primer Proyecto</th>
+  <th>Segundo Proyecti</th>
+  </thead>
+  <tbody>
+   <tr>
+     <td>UNO</td>
+   </tr>
+  </tbody>
+</table>
 
 
 
