@@ -1,7 +1,5 @@
-<div align="center">  
-<img src="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/6aabaf51-8f9a-404a-963a-8e4d237a53bc">
-  
-</div>
+![esto es el logo](https://github.com/joshuac-ch/joshuac-ch/assets/132742651/6aabaf51-8f9a-404a-963a-8e4d237a53bc)
+
 
 
 |JavaScript|   BUSCARJava   |  Python  |    C#    |    R     |   PHP    | LARAVEL  |   .NET   |  Unity  |  
