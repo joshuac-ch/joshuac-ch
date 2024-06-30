@@ -44,18 +44,12 @@ https://github.com/joshuac-ch/joshuac-ch/assets/132742651/7911ad00-2f96-4c03-aa9
 
 ---------------------------------------
 
-- 👋 Hi, I’m @joshuac-ch
-- 👀 I’m interested in ...
-
-
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-
-
-
-
+- 👋Hi, I’m @joshuac-ch! I'm a passionate and self-taught developer who thrives on learning something new every day.
+- 👀 My interests span across both frontend and backend development, and I am particularly enthusiastic about building efficient, user-friendly applications. Currently, I am deepening my knowledge in NEXT.JS to enhance my skills and stay ahead in the fast-evolving tech landscape.
+- 🌱 My interests span frontend and backend development. I am currently deepening my knowledge in NEXT.JS to improve my skills and stay ahead in the rapidly evolving technology landscape.
+- 💞️ I am always open to new challenges and opportunities to collaborate on interesting projects.
+- 📫 How to contact me by gmail as condorenajoshua98@gmail.com or by the QR code at the beginning.
+- 😄 Pronouns: Josh.
 - ⚡ Fun fact: ...
 
 
