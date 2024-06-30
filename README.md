@@ -12,12 +12,14 @@
 ![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
 ![RSTUDIO](https://img.shields.io/badge/-R%20Studio-%23512BD4?logo=r&logoColor=%23276DC3&logoSize=20&labelColor=white&color=%23276DC3)
 ![php](https://img.shields.io/badge/-PHP-%23512BD4?logo=php&logoColor=%23777BB4&logoSize=20&labelColor=white&color=%23777BB4)
+
 ![laravel](https://img.shields.io/badge/-Laravel-%23512BD4?logo=laravel&logoColor=%23FF2D20&logoSize=20&labelColor=white&color=%23FF2D20)
 ![UNITY](https://img.shields.io/badge/-Unity-%23512BD4?logo=unity&logoColor=%23FFFFFF&logoSize=20&labelColor=black&color=white)
 ![MONGODB](https://img.shields.io/badge/-MongoDB-%23512BD4?logo=mongodb&logoColor=%2347A248&logoSize=20&labelColor=white&color=%2347A248)
 ![MYSQL](https://img.shields.io/badge/-MySQL-%23512BD4?logo=mysql&logoColor=%234479A1&logoSize=20&labelColor=white&color=%234479A1)
 ![MICROSOFSERVER](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23512BD4?logo=microsoftsqlserver&logoColor=%23CC2927&logoSize=20&labelColor=white&color=%23CC2927)
 ![HTML5](https://img.shields.io/badge/-HTML%205-%23512BD4?logo=html5&logoColor=%23E34F26&logoSize=20&labelColor=white&color=%23E34F26)
+
 ![CSS 3](https://img.shields.io/badge/-CSS-%23512BD4?logo=css3&logoColor=%231572B6&logoSize=20&labelColor=white&color=%231572B6)
 ![SQLLITE3](https://img.shields.io/badge/-SQLite3-%23512BD4?logo=sqlite&logoColor=%23003B57&logoSize=20&labelColor=white&color=%23003B57)
 ![VERSION BLACK](https://img.shields.io/badge/-visual%20studio%20Code-%23512BD4?logo=visualstudiocode&logoColor=%23007ACC&logoSize=20&labelColor=black&color=%23007ACC)
