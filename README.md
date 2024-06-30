@@ -10,14 +10,13 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 
 
-![colores](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoSize=auto)
-![python](https://img.shields.io/badge/-Python-%23F7DF1E?logo=python&logoColor=%233776AB&labelColor=black&color=%233776AB)
+![python](https://img.shields.io/badge/-Python-%23512BD4?logo=python&logoColor=%233776AB&logoSize=20&labelColor=white&color=%233776AB)
 
-![falta modelado](https://img.shields.io/badge/Framework-%23512BD4?style=flat&logo=dotnet)
-![.NTE](https://img.shields.io/badge/-.NET-%23512BD4?logo=dotnet&logoColor=%23512BD4&logoSize=20&labelColor=black&color=%23512BD4)
 
-![](https://img.shields.io/badge/C%23-white?style=flat&logo=C%23&logoColor=%23512BD4&logoSize=auto)
-![c#](https://img.shields.io/badge/-.NET-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=black&color=%23512BD4)
+![.NTE](https://img.shields.io/badge/-FRAMEWORK-%23512BD4?logo=dotnet&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
+
+
+![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
 
 ![](https://img.shields.io/badge/Rstudio-white?style=flat&logo=r&logoColor=%23276DC3&logoSize=auto)
 ![RSTUDIO](https://img.shields.io/badge/-R%20Studio-%23512BD4?logo=r&logoColor=%23276DC3&logoSize=20&labelColor=white&color=%23276DC3)
