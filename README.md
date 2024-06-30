@@ -18,7 +18,7 @@
 
 ![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
 
-![](https://img.shields.io/badge/Rstudio-white?style=flat&logo=r&logoColor=%23276DC3&logoSize=auto)
+
 ![RSTUDIO](https://img.shields.io/badge/-R%20Studio-%23512BD4?logo=r&logoColor=%23276DC3&logoSize=20&labelColor=white&color=%23276DC3)
 
 
@@ -44,10 +44,9 @@
 
 ![SQLLITE3](https://img.shields.io/badge/-SQLite3-%23512BD4?logo=sqlite&logoColor=%23003B57&logoSize=20&labelColor=white&color=%23003B57)
 
-![visutal studio CODE](https://img.shields.io/badge/-Visual%20Studio%20Code-%23512BD4?logo=visualstudiocode&logoColor=%23007ACC&logoSize=20&labelColor=white&color=%23007ACC)
+
 ![VERSION BLACK](https://img.shields.io/badge/-visual%20studio%20Code-%23512BD4?logo=visualstudiocode&logoColor=%23007ACC&logoSize=20&labelColor=black&color=%23007ACC)
 
-![](https://img.shields.io/badge/Visual%20Studio%20-white?style=flat&logo=visualstudio&logoColor=%235C2D91&logoSize=30px)
 ![VISUAL ESTUDIO](https://img.shields.io/badge/-Visual%20Studio-%23512BD4?logo=visualstudio&logoColor=%235C2D91&logoSize=20&labelColor=black&color=%235C2D91)
 
 ![GIT](https://img.shields.io/badge/-Git-%23512BD4?logo=git&logoColor=%23F05032&logoSize=20&labelColor=white&color=%23F05032)
