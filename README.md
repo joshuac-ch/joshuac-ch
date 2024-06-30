@@ -1,11 +1,23 @@
-![esto es el logo](https://github.com/joshuac-ch/joshuac-ch/assets/132742651/e0d09678-e350-4567-a602-1daf3acb8e39)
+<div align="center">
+    <img src="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/f7a4abdc-a628-4cc7-ba28-53faaec4046a"  style="border-radius: 15px;">
+</div>
+
 <!--
 |JavaScript|   BUSCARJava   |  Python  |    C#    |    R     |   PHP    | LARAVEL  |   .NET   |  Unity  |  
 |----------|----------|----------|----------|----------|----------|----------|----------|---------|
+
+
+
+
+
+https://github.com/joshuac-ch/joshuac-ch/assets/132742651/7911ad00-2f96-4c03-aa94-006c15372299
+
+
+
 | MONGODB  |  Mysql   |SQLSERVER | BUSTCAR  COBOL  |    HTML  |    CSS   | SQLITE3|BUSCAR   STARUML | BOOSTRAP|
 |     VISUAL STUDIO   | VISUAL STUDIO CODE  |    GIT   |   GITHUB |
 -->
-
+<div align="center">    
     
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 ![python](https://img.shields.io/badge/-Python-%23512BD4?logo=python&logoColor=%233776AB&logoSize=20&labelColor=white&color=%233776AB)
@@ -28,7 +40,7 @@
 ![GIT](https://img.shields.io/badge/-Git-%23512BD4?logo=git&logoColor=%23F05032&logoSize=20&labelColor=white&color=%23F05032)
 ![GIT HUB](https://img.shields.io/badge/-GitHub-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717)
 
-
+</div>
 - 👋 Hi, I’m @joshuac-ch
 - 👀 I’m interested in ...
 
