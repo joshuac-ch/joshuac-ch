@@ -41,6 +41,7 @@ https://github.com/joshuac-ch/joshuac-ch/assets/132742651/7911ad00-2f96-4c03-aa9
 ![GIT HUB](https://img.shields.io/badge/-GitHub-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717)
 
 </div>
+---------------------------------------
 - 👋 Hi, I’m @joshuac-ch
 - 👀 I’m interested in ...
 
