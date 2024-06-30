@@ -1,10 +1,5 @@
 ![esto es el logo](https://github.com/joshuac-ch/joshuac-ch/assets/132742651/e0d09678-e350-4567-a602-1daf3acb8e39)
-
-
-
-
-
-
+<!--
 |JavaScript|   BUSCARJava   |  Python  |    C#    |    R     |   PHP    | LARAVEL  |   .NET   |  Unity  |  
 |----------|----------|----------|----------|----------|----------|----------|----------|---------|
 | MONGODB  |  Mysql   |SQLSERVER | BUSTCAR  COBOL  |    HTML  |    CSS   | SQLITE3|BUSCAR   STARUML | BOOSTRAP|
