@@ -7,6 +7,8 @@
 |     VISUAL STUDIO   | VISUAL STUDIO CODE  |    GIT   |   GITHUB |
 -->
 ![falta color](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoSize=auto)
+!(JAVASCRIPT)(https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
+
 
 ![colores](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoSize=auto)
 ![falta modelado](https://img.shields.io/badge/Framework-%23512BD4?style=flat&logo=dotnet)
