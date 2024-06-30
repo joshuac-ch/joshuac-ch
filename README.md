@@ -5,7 +5,7 @@
 |----------|----------|----------|----------|----------|----------|----------|----------|---------|
 | MONGODB  |  Mysql   |SQLSERVER | BUSTCAR  COBOL  |    HTML  |    CSS   | SQLITE3|BUSCAR   STARUML | BOOSTRAP|
 |     VISUAL STUDIO   | VISUAL STUDIO CODE  |    GIT   |   GITHUB |
--->
+
 ![falta color](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoSize=auto)
 
 ![colores](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoSize=auto)
@@ -28,7 +28,7 @@
 
 ![falta color](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=%23F05032)
 ![no carga](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github)
-
+-->
 
 - 👋 Hi, I’m @joshuac-ch
 - 👀 I’m interested in ...
