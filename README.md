@@ -52,7 +52,7 @@ MEJORES PROYECTO
         <th>Segundo Proyecto</th>      
         </thead>
         <tbody>
-                <tr text-align="center">
+                <tr align="center">
            <td>
            <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
            </td>
@@ -61,11 +61,11 @@ MEJORES PROYECTO
            </td>
          </tr>
           <tr>
-            <td   text-align="center">
+            <td align="center">
               <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
               <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
             </td>
-            <td   text-align="center">
+            <td align="center">
                 <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
                 <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
            </td>
