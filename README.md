@@ -1,4 +1,7 @@
-![esto es el logo](https://github.com/joshuac-ch/joshuac-ch/assets/132742651/6aabaf51-8f9a-404a-963a-8e4d237a53bc)
+![esto es el logo](https://github.com/joshuac-ch/joshuac-ch/assets/132742651/e0d09678-e350-4567-a602-1daf3acb8e39)
+
+
+
 
 
 
