@@ -6,6 +6,142 @@
 | MONGODB  |  Mysql   |SQLSERVER | BUSTCAR  COBOL  |    HTML  |    CSS   | SQLITE3|BUSCAR   STARUML | BOOSTRAP|
 |     VISUAL STUDIO   | VISUAL STUDIO CODE  |    GIT   |   GITHUB |
 -->
+<style>
+       .conteiner{
+            cursor: pointer;
+            border-radius: 20px;
+            position: relative;
+            border:2px solid black;
+            padding: 30px 180px;
+            
+            /*background-color:#645769;
+            */
+            background-image: url("7efec9e60005409a87e18daae554a6c3.gif");
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+            
+            overflow: hidden;
+            .titulo{
+                margin-top: 40px;
+                font-size: 1.7rem;
+                display: flex;
+                align-items: center;
+                color:#46AEC6;
+                & img{
+                    width: 50px;
+                }
+            }
+        
+        .hoja{
+            position: absolute;
+            background-color:#C45267;
+            padding: 40px;
+            rotate: 45deg;
+            top: 35%;
+            left:-5%;
+            box-shadow: 0px 0px 15px;
+            border-radius: 10px;
+        }
+        .hoja2{
+            position: absolute;
+            background-color:#d16568;
+            padding: 70px;
+            rotate: -45deg;
+            top: -15%;
+            left:-10%;
+            box-shadow: 0px 0px 10px;
+            border-radius: 10px;
+        }.hoja3{
+           
+            position: absolute;
+            background-color:#d16568;
+            
+            
+            top: 52%;
+            right: 5%;
+            box-shadow: 0px 0px 20px;
+            border-radius: 10px;
+            & img{
+                width: 140px;
+                border-radius: 10px;
+                
+            }
+        }
+        .hoja4{
+           
+           position: absolute;
+           background-color:#C45267;
+           padding:60px;           
+           top: -15%;
+           rotate: 45deg;
+           right: 10%;
+           box-shadow: 0px 0px 20px;
+           border-radius: 10px;
+        }
+        .hoja5{
+           
+           position: absolute;
+           background-color:#d16568;
+           padding:60px;           
+           top: -20%;
+           rotate: 68deg;
+           right: -4%;
+           box-shadow: 0px 0px 20px;
+           border-radius: 10px;
+        }
+        .programacion{
+            background-color:#46AEC6;
+            border-radius: 5px;
+            margin-top: 20px;
+            border: 0;
+            padding:10px 15px ;
+            color: white;
+        }.contenido{
+            color: white;
+        }.btn{
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            color: white;
+           
+            font-size: 20px;
+            .b{
+                margin: 15px 3px;
+                padding: 7px;
+                border-radius: 50px;
+                border: 2px solid #46AEC6;               
+            }
+        
+        }
+    }
+    </style>
+ <div class="conteiner">
+        <div class="titulo">    
+        <h2>JoshuaNK.Dev</h2>
+            <img src="MARIPOSA_NINO-removebg-preview.png" alt="">
+        </div>        
+        <div class="contenido">
+            <p>by Joshua Gustav | software engineer with A.I.|</p>
+            <button class="programacion">Programacion, creacion y diseño de Software</button>
+        </div>
+        <div class="btn">
+            <div class="b"><i class='bx bxl-linkedin'></i></div>
+            <div class="b"><i class='bx bxl-github'></i></div>
+            <div class="b"><i class='bx bxl-discord-alt'></i></div>
+            <div class="b"><i class='bx bxl-instagram'></i></div>
+            <div class="b"><i class='bx bxl-twitter'></i></div>           
+        </div>
+        <!--<div class="hoja2"></div>-->
+        <div class="hoja"></div>
+        <div class="hoja3">
+         <img src="qrcode_116303383_00c5847f5e5ac6362305310734e239b2 (1).png" alt="">
+        </div> 
+        <!--<div class="hoja5"></div>
+        <div class="hoja4"></div>-->          
+    </div>
+
+    
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 ![python](https://img.shields.io/badge/-Python-%23512BD4?logo=python&logoColor=%233776AB&logoSize=20&labelColor=white&color=%233776AB)
 ![.NTE](https://img.shields.io/badge/-FRAMEWORK-%23512BD4?logo=dotnet&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
