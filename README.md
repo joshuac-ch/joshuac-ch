@@ -53,6 +53,7 @@ MEJORES PROYECTO
   <tbody>
    <tr>
      <td>UNO</td>
+     <td>DOS</td>
    </tr>
   </tbody>
 </table>
