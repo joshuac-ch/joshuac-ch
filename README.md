@@ -11,25 +11,56 @@
 
 
 ![colores](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoSize=auto)
-![falta modelado](https://img.shields.io/badge/Framework-%23512BD4?style=flat&logo=dotnet)
+![python](https://img.shields.io/badge/-Python-%23F7DF1E?logo=python&logoColor=%233776AB&labelColor=black&color=%233776AB)
 
+![falta modelado](https://img.shields.io/badge/Framework-%23512BD4?style=flat&logo=dotnet)
+![.NTE](https://img.shields.io/badge/-.NET-%23512BD4?logo=dotnet&logoColor=%23512BD4&logoSize=20&labelColor=black&color=%23512BD4)
 
 ![](https://img.shields.io/badge/C%23-white?style=flat&logo=C%23&logoColor=%23512BD4&logoSize=auto)
+![c#](https://img.shields.io/badge/-.NET-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=black&color=%23512BD4)
+
 ![](https://img.shields.io/badge/Rstudio-white?style=flat&logo=r&logoColor=%23276DC3&logoSize=auto)
+![RSTUDIO](https://img.shields.io/badge/-R%20Studio-%23512BD4?logo=r&logoColor=%23276DC3&logoSize=20&labelColor=white&color=%23276DC3)
+
 ![](https://img.shields.io/badge/PHP-white?style=flat&logo=php&logoColor=%23777BB4&logoSize=auto)
+![php](https://img.shields.io/badge/-PHP-%23512BD4?logo=php&logoColor=%23777BB4&logoSize=20&labelColor=white&color=%23777BB4)
+
 ![](https://img.shields.io/badge/Laravel-white?style=flat&logo=laravel&logoColor=%23FF2D20&logoSize=auto)
+![laravel](https://img.shields.io/badge/-Laravel-%23512BD4?logo=laravel&logoColor=%23FF2D20&logoSize=20&labelColor=white&color=%23FF2D20)
+
 ![](https://img.shields.io/badge/Unityl-black?style=flat&logo=unity&logoColor=%23FFFFFF&logoSize=auto)
+![UNITY](https://img.shields.io/badge/-Unity-%23512BD4?logo=unity&logoColor=%23FFFFFF&logoSize=20&labelColor=black&color=white)
+
 ![](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=%2347A248)
+![MONGODB](https://img.shields.io/badge/-MongoDB-%23512BD4?logo=mongodb&logoColor=%2347A248&logoSize=20&labelColor=white&color=%2347A248)
+
 ![](https://img.shields.io/badge/MySQL-%23cedaed?style=flat&logo=mysql&logoSize=30px)
+![MYSQL](https://img.shields.io/badge/-MySQL-%23512BD4?logo=mysql&logoColor=%234479A1&logoSize=20&labelColor=white&color=%234479A1)
+
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-white?style=flat&logo=microsoftsqlserver&logoColor=%23CC2927&logoSize=30px)
+![MICROSOFSERVER](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23512BD4?logo=microsoftsqlserver&logoColor=%23CC2927&logoSize=20&labelColor=white&color=%23CC2927)
+
 ![](https://img.shields.io/badge/HTML%205-white?style=flat&logo=html5&logoColor=%23E34F26&logoSize=30px)
+![HTML5](https://img.shields.io/badge/-HTML%205-%23512BD4?logo=html5&logoColor=%23E34F26&logoSize=20&labelColor=white&color=%23E34F26)
+
 ![](https://img.shields.io/badge/CSS-white?style=flat&logo=css3&logoColor=%231572B6&logoSize=30px)
+![CSS 3](https://img.shields.io/badge/-CSS-%23512BD4?logo=css3&logoColor=%231572B6&logoSize=20&labelColor=white&color=%231572B6)
+
+
 ![](https://img.shields.io/badge/SQLite%203-white?style=flat&logo=sqlite&logoColor=%23003B57&logoSize=30px)
+![SQLLITE3](https://img.shields.io/badge/-SQLite3-%23512BD4?logo=sqlite&logoColor=%23003B57&logoSize=20&labelColor=white&color=%23003B57)
+
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-white?style=flat&logo=visualstudiocode&logoColor=%23007ACC&logoSize=30px)
+![visutal studio CODE](https://img.shields.io/badge/-Visual%20Studio%20Code-%23512BD4?logo=visualstudiocode&logoColor=%23007ACC&logoSize=20&labelColor=white&color=%23007ACC)
+![VERSION BLACK](https://img.shields.io/badge/-visual%20studio%20Code-%23512BD4?logo=visualstudiocode&logoColor=%23007ACC&logoSize=20&labelColor=black&color=%23007ACC)
+
 ![](https://img.shields.io/badge/Visual%20Studio%20-white?style=flat&logo=visualstudio&logoColor=%235C2D91&logoSize=30px)
+![VISUAL ESTUDIO](https://img.shields.io/badge/-Visual%20Studio-%23512BD4?logo=visualstudio&logoColor=%235C2D91&logoSize=20&labelColor=black&color=%235C2D91)
 
 ![falta color](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=%23F05032)
+![GIT](https://img.shields.io/badge/-Git-%23512BD4?logo=git&logoColor=%23F05032&logoSize=20&labelColor=white&color=%23F05032)
 ![no carga](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github)
+![GIT HUB](https://img.shields.io/badge/-GitHub-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717)
 
 
 - 👋 Hi, I’m @joshuac-ch
