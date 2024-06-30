@@ -6,7 +6,6 @@
 | MONGODB  |  Mysql   |SQLSERVER | BUSTCAR  COBOL  |    HTML  |    CSS   | SQLITE3|BUSCAR   STARUML | BOOSTRAP|
 |     VISUAL STUDIO   | VISUAL STUDIO CODE  |    GIT   |   GITHUB |
 -->
-![falta color](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoSize=auto)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 ![python](https://img.shields.io/badge/-Python-%23512BD4?logo=python&logoColor=%233776AB&logoSize=20&labelColor=white&color=%233776AB)
 ![.NTE](https://img.shields.io/badge/-FRAMEWORK-%23512BD4?logo=dotnet&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
