@@ -19,7 +19,7 @@ https://github.com/joshuac-ch/joshuac-ch/assets/132742651/7911ad00-2f96-4c03-aa9
 -->
 <div align="center">    
 
-
+<br>
     
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-%23512BD4?logo=javascript&logoColor=%23F7DF1E&logoSize=20&labelColor=black&color=%23F7DF1E)
 ![python](https://img.shields.io/badge/-Python-%23512BD4?logo=python&logoColor=%233776AB&logoSize=20&labelColor=white&color=%233776AB)
