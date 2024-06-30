@@ -59,6 +59,16 @@ MEJORES PROYECTO
      <img src="https://i.pinimg.com/564x/7b/c3/12/7bc31265b1dbffbcce0f00fe2eb5e243.jpg">  
      </td>
    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
+         <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
+      </td>
+    </tr>
   </tbody>
 </table>
 
