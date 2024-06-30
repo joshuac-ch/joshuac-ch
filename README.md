@@ -52,8 +52,12 @@ MEJORES PROYECTO
   </thead>
   <tbody>
    <tr>
-     <td>UNO</td>
-     <td>DOS</td>
+     <td>
+     ![nino1](https://i.pinimg.com/564x/7b/c3/12/7bc31265b1dbffbcce0f00fe2eb5e243.jpg)  
+     </td>
+     <td>
+     ![nino](https://i.pinimg.com/564x/7b/c3/12/7bc31265b1dbffbcce0f00fe2eb5e243.jpg)
+     </td>
    </tr>
   </tbody>
 </table>
