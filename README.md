@@ -1,6 +1,6 @@
 <div align="center">
-  
-   <img src="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/f7a4abdc-a628-4cc7-ba28-53faaec4046a"  style="border-radius: 15px;">
+   <img src="https://github.com/user-attachments/assets/8a484a70-7ab3-4d89-8198-571f8225a3ad"  style="border-radius: 15px;">
+    <!-- <img src="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/f7a4abdc-a628-4cc7-ba28-53faaec4046a"  style="border-radius: 15px;">-->
 </div>
 
 <!--
