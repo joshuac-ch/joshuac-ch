@@ -2,6 +2,7 @@
     <img src="https://github.com/user-attachments/assets/c33975c1-b8b3-4518-ab25-78634c52b50c"  style="border-radius: 15px;">
     
   <!--  <img src="https://github.com/user-attachments/assets/f66c0014-2fb8-4194-b851-d2d96d5d4936"  style="border-radius: 15px;" SECUNDARIO>-->
+  
     <!-- <img src="https://github.com/joshuac-ch/joshuac-ch/assets/132742651/f7a4abdc-a628-4cc7-ba28-53faaec4046a"  style="border-radius: 15px;"> PRINCIAPL-->
 </div>
 
@@ -9,12 +10,12 @@
 |JavaScript|   BUSCARJava   |  Python  |    C#    |    R     |   PHP    | LARAVEL  |   .NET   |  Unity  |  
 |----------|----------|----------|----------|----------|----------|----------|----------|---------|
 
-![Vídeo sin título ‐ Hecho con Clipchamp (3) (3)](https://github.com/user-attachments/assets/c33975c1-b8b3-4518-ab25-78634c52b50c)
 
 
 
 
-https://github.com/joshuac-ch/joshuac-ch/assets/132742651/7911ad00-2f96-4c03-aa94-006c15372299
+
+
 
 
 
