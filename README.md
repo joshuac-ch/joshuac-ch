@@ -52,7 +52,7 @@
 
 ---------------------------------------
 
-- 👋Hi, I’m @joshuac-ch! I'm a passionate and self-taught developer who thrives on learning something new every day.
+- 👋Hello, I’m @joshuac-ch! I'm a passionate and self-taught developer who thrives on learning something new every day.
 - 👀 My interests span across both frontend and backend development, and I am particularly enthusiastic about building efficient, user-friendly applications. Currently, I am deepening my knowledge in NEXT.JS to enhance my skills and stay ahead in the fast-evolving tech landscape.
 - 🌱 My interests span frontend and backend development. I am currently deepening my knowledge in NEXT.JS to improve my skills and stay ahead in the rapidly evolving technology landscape.
 - 💞️ I am always open to new challenges and opportunities to collaborate on interesting projects.
