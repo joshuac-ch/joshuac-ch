@@ -47,7 +47,7 @@
 ![VISUAL ESTUDIO](https://img.shields.io/badge/-Visual%20Studio-%23512BD4?logo=visualstudio&logoColor=%235C2D91&logoSize=20&labelColor=black&color=%235C2D91)
 ![GIT](https://img.shields.io/badge/-Git-%23512BD4?logo=git&logoColor=%23F05032&logoSize=20&labelColor=white&color=%23F05032)
 ![GIT HUB](https://img.shields.io/badge/-GitHub-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717)
-<img width="80" height="30" alt="docker_button_icon_151885" src="https://github.com/user-attachments/assets/14034bb7-7516-4ae6-95bb-453420e2a59d" />
+<img width="70" height="30" alt="docker_button_icon_151885" src="https://github.com/user-attachments/assets/14034bb7-7516-4ae6-95bb-453420e2a59d" />
 
 </div>
 
