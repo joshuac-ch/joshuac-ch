@@ -48,7 +48,7 @@
 ![GIT](https://img.shields.io/badge/-Git-%23512BD4?logo=git&logoColor=%23F05032&logoSize=20&labelColor=white&color=%23F05032)
 ![GIT HUB](https://img.shields.io/badge/-GitHub-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717)
 <img width="70" height="40" alt="docker_button_icon_151885" src="https://github.com/user-attachments/assets/14034bb7-7516-4ae6-95bb-453420e2a59d" />
-
+![Kuberntes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 </div>
 
 ---------------------------------------
