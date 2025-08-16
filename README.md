@@ -29,13 +29,13 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-%23512BD4?logo=javascript&logoColor=%23F7DF1E&logoSize=20&labelColor=black&color=%23F7DF1E)
 ![python](https://img.shields.io/badge/-Python-%23512BD4?logo=python&logoColor=%233776AB&logoSize=20&labelColor=white&color=%233776AB)
 ![.NTE](https://img.shields.io/badge/-FRAMEWORK-%23512BD4?logo=dotnet&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
-![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
+![laravel](https://img.shields.io/badge/-Laravel-%23512BD4?logo=laravel&logoColor=%23FF2D20&logoSize=20&labelColor=white&color=%23FF2D20)
 ![RSTUDIO](https://img.shields.io/badge/-R%20Studio-%23512BD4?logo=r&logoColor=%23276DC3&logoSize=20&labelColor=white&color=%23276DC3)
 ![php](https://img.shields.io/badge/-PHP-%23512BD4?logo=php&logoColor=%23777BB4&logoSize=20&labelColor=white&color=%23777BB4)
 ![JAVA](https://img.shields.io/badge/-Java-%23512BD4?logoSize=20&labelColor=%23FF7800&color=%23FF7800)
 
-![laravel](https://img.shields.io/badge/-Laravel-%23512BD4?logo=laravel&logoColor=%23FF2D20&logoSize=20&labelColor=white&color=%23FF2D20)
-![UNITY](https://img.shields.io/badge/-Unity-%23512BD4?logo=unity&logoColor=%23FFFFFF&logoSize=20&labelColor=black&color=white)
+<!--![UNITY](https://img.shields.io/badge/-Unity-%23512BD4?logo=unity&logoColor=%23FFFFFF&logoSize=20&labelColor=black&color=white) -->
+![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
 ![MONGODB](https://img.shields.io/badge/-MongoDB-%23512BD4?logo=mongodb&logoColor=%2347A248&logoSize=20&labelColor=white&color=%2347A248)
 ![MYSQL](https://img.shields.io/badge/-MySQL-%23512BD4?logo=mysql&logoColor=%234479A1&logoSize=20&labelColor=white&color=%234479A1)
 ![MICROSOFSERVER](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23512BD4?logo=microsoftsqlserver&logoColor=%23CC2927&logoSize=20&labelColor=white&color=%23CC2927)
