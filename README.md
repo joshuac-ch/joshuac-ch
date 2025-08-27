@@ -30,7 +30,7 @@
 ![laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=white&color=%23FF2D20)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![astro](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astra&logoColor=%23BC52EE)
+![astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=%235C2EDE&labelColor=black&color=black)
 
 ![js](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%233776AB)
