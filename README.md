@@ -25,14 +25,7 @@
 <div align="center">    
 
 <br>
-!["Profile Views"](https://camo.githubusercontent.com/6d9e94a4e2c26f4b092865d6bdbba15587eb03215c3d59d6c4b985b5b9b3faeb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616b736861746d697474616c3631266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)    
-![JAVASCRIPT](https://img.shields.io/badge/-Javascript-%23512BD4?logo=javascript&logoColor=%23F7DF1E&logoSize=20&labelColor=black&color=%23F7DF1E)
-![python](https://img.shields.io/badge/-Python-%23512BD4?logo=python&logoColor=%233776AB&logoSize=20&labelColor=white&color=%233776AB)
-![.NTE](https://img.shields.io/badge/-FRAMEWORK-%23512BD4?logo=dotnet&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
-![laravel](https://img.shields.io/badge/-Laravel-%23512BD4?logo=laravel&logoColor=%23FF2D20&logoSize=20&labelColor=white&color=%23FF2D20)
-![RSTUDIO](https://img.shields.io/badge/-R%20Studio-%23512BD4?logo=r&logoColor=%23276DC3&logoSize=20&labelColor=white&color=%23276DC3)
-![php](https://img.shields.io/badge/-PHP-%23512BD4?logo=php&logoColor=%23777BB4&logoSize=20&labelColor=white&color=%23777BB4)
-![JAVA](https://img.shields.io/badge/-Java-%23512BD4?logoSize=20&labelColor=%23FF7800&color=%23FF7800)
+
 
 <!--![UNITY](https://img.shields.io/badge/-Unity-%23512BD4?logo=unity&logoColor=%23FFFFFF&logoSize=20&labelColor=black&color=white) -->
 ![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
