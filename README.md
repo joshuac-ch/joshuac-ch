@@ -25,8 +25,6 @@
 <div align="center">    
 
 <br>
-
-
 <!--![UNITY](https://img.shields.io/badge/-Unity-%23512BD4?logo=unity&logoColor=%23FFFFFF&logoSize=20&labelColor=black&color=white) -->
 ![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
 ![MONGODB](https://img.shields.io/badge/-MongoDB-%23512BD4?logo=mongodb&logoColor=%2347A248&logoSize=20&labelColor=white&color=%2347A248)
