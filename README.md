@@ -33,11 +33,13 @@
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=%235C2EDE&labelColor=black&color=black)
+![express](https://img.shields.io/badge/Express%20JS-%23000000?style=for-the-badge&logo=express)
 
 ![js](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%233776AB)
 ![php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=black)
 ![java](https://img.shields.io/badge/java-white?style=for-the-badge&logo=coffeescript&logoColor=ED8B00)
+![nodejs](https://img.shields.io/badge/node%20js-white?style=for-the-badge&logo=nodedotjs&labelColor=white&color=%235FA04E)
 
 ![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
 ![MONGODB](https://img.shields.io/badge/-MongoDB-%23512BD4?logo=mongodb&logoColor=%2347A248&logoSize=20&labelColor=white&color=%2347A248)
