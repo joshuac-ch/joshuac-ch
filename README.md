@@ -74,46 +74,59 @@
 MEJORES PROYECTO
 ----------------
 
-<table>
+
+<table width="100%">
   <thead>
     <tr>
-      <th>Primer Proyecto</th>
-      <th>Segundo Proyecto</th>
-      <th>Tercer Proyecto</th>
-      <th>Cuarto Proyecto</th>
+      <th width="50%">Primer Proyecto</th>
+      <th width="50%">Segundo Proyecto</th>
     </tr>
   </thead>
   <tbody>
     <!-- Fila de imágenes -->
-    <tr align="center">
-      <td><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200"></td>
-      <td><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200"></td>
-      <td><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200"></td>
-      <td><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200"></td>
+    <tr>
+      <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%"></td>
+      <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%"></td>
     </tr>
     <!-- Fila de botones -->
     <tr align="center">
       <td>
-        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
-        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
       </td>
       <td>
-        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
-        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
-        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
-        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
       </td>
     </tr>
     <!-- Fila de descripciones -->
     <tr>
       <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
       <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
+    </tr>
+    <!-- Segunda fila -->
+    <tr>
+      <th>Tercer Proyecto</th>
+      <th>Cuarto Proyecto</th>
+    </tr>
+    <!-- Fila de imágenes -->
+    <tr>
+      <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%"></td>
+      <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%"></td>
+    </tr>
+    <!-- Fila de botones -->
+    <tr align="center">
+      <td>
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
+      </td>
+    </tr>
+    <!-- Fila de descripciones -->
+    <tr>
       <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
       <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
     </tr>
