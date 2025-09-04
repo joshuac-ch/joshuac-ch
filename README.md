@@ -90,17 +90,19 @@ MEJORES PROYECTO
            <!---2-->
            <td>
                <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
-           </td>
-           <!---3-->
+           </td>                  
+         </tr>
+         <tr>
+            <!---3-->
            <td>
                <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
            </td>
            <!---4-->
            <td>
                <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
-           </td>         
+           </td>          
          </tr>
-          <tr>
+         <tr>
               <!---1-->
             <td align="center">
               <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
