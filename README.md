@@ -85,7 +85,7 @@ MEJORES PROYECTO
   <tbody>
     <!-- Fila de imágenes -->
     <tr>
-      <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%"></td>
+      <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%" style="border-radius: 10px;"></td>
       <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%"></td>
     </tr>
     <!-- Fila de botones -->
