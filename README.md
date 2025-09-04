@@ -92,7 +92,7 @@ MEJORES PROYECTO
                <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
            </td>                  
          </tr>
-         <tr>
+         <tr align="center">
             <!---3-->
            <td>
                <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
