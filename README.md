@@ -113,6 +113,8 @@ MEJORES PROYECTO
                 <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
                 <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
            </td>
+         </tr>
+         <tr>
               <!---3-->
              <td align="center">
               <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
@@ -123,7 +125,7 @@ MEJORES PROYECTO
                 <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
                 <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
            </td>  
-          </tr>
+         </tr>   
           <tr>
               <!---1-->
             <td>
@@ -133,7 +135,9 @@ MEJORES PROYECTO
             <td>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium repellat perferendis reprehenderit consectetur doloribus molestias quibusdam neque, ut unde placeat illum enim voluptates doloremque nesciunt consequuntur fugit, temporibus ratione                 rem!</p>
             </td>
-              <!---3-->
+         </tr>
+         <tr>
+               <!---3-->
             <td>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore corporis tenetur adipisci tempore, natus deleniti nisi sequi nostrum unde mollitia id molestiae consequuntur enim asperiores sint reprehenderit quo distinctio suscipit deserunt modi!                     Laboriosam, amet voluptatibus.</p>
             </td>
@@ -141,7 +145,7 @@ MEJORES PROYECTO
             <td>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium repellat perferendis reprehenderit consectetur doloribus molestias quibusdam neque, ut unde placeat illum enim voluptates doloremque nesciunt consequuntur fugit, temporibus ratione                 rem!</p>
             </td>  
-          </tr>
+         </tr>
         </tbody>
 </table>
 
