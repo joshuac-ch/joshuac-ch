@@ -76,10 +76,14 @@ MEJORES PROYECTO
 
 <table>
         <thead>
-        <th>Primer Proyecto</th>
-        <th>Segundo Proyecto</th>
-        <th>Tercer Proyecto</th>
-        <th>Cuarto Proyecto</th>      
+        <tr>
+            <th>Primer Proyecto</th>
+            <th>Segundo Proyecto</th>
+        </tr>
+       <tr>
+            <th>Tercer Proyecto</th>
+            <th>Cuarto Proyecto</th>  
+       </tr>    
         </thead>
         <tbody>
          <tr align="center">
