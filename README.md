@@ -75,82 +75,76 @@ MEJORES PROYECTO
 ----------------
 
 <table>
-        <thead>
-        <tr>
-            <th>Primer Proyecto</th>
-            <th>Segundo Proyecto</th>
-        </tr>
-       <tr>
-            <th>Tercer Proyecto</th>
-            <th>Cuarto Proyecto</th>  
-       </tr>    
-        </thead>
-        <tbody>
-         <tr align="center">
-           <!---1-->
-           <td>
-               <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
-           </td>
-           <!---2-->
-           <td>
-               <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
-           </td>                  
-         </tr>
-         <tr align="center">
-            <!---3-->
-           <td>
-               <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
-           </td>
-           <!---4-->
-           <td>
-               <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg">  
-           </td>          
-         </tr>
-         <tr>
-              <!---1-->
-            <td align="center">
-              <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
-              <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
-            </td>
-              <!---2-->
-            <td align="center">
-                <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
-                <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
-           </td>
-         </tr>
-         <tr>
-              <!---3-->
-             <td align="center">
-              <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
-              <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
-            </td>
-              <!---4-->
-            <td align="center">
-                <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
-                <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717">
-           </td>  
-         </tr>   
-          <tr>
-              <!---1-->
-            <td>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore corporis tenetur adipisci tempore, natus deleniti nisi sequi nostrum unde mollitia id molestiae consequuntur enim asperiores sint reprehenderit quo distinctio suscipit deserunt modi!                     Laboriosam, amet voluptatibus.</p>
-            </td>
-              <!---2-->
-            <td>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium repellat perferendis reprehenderit consectetur doloribus molestias quibusdam neque, ut unde placeat illum enim voluptates doloremque nesciunt consequuntur fugit, temporibus ratione                 rem!</p>
-            </td>
-         </tr>
-         <tr>
-               <!---3-->
-            <td>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore corporis tenetur adipisci tempore, natus deleniti nisi sequi nostrum unde mollitia id molestiae consequuntur enim asperiores sint reprehenderit quo distinctio suscipit deserunt modi!                     Laboriosam, amet voluptatibus.</p>
-            </td>
-              <!---4-->
-            <td>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium repellat perferendis reprehenderit consectetur doloribus molestias quibusdam neque, ut unde placeat illum enim voluptates doloremque nesciunt consequuntur fugit, temporibus ratione                 rem!</p>
-            </td>  
-         </tr>
-        </tbody>
+  <thead>
+    <tr>
+      <th>Primer Proyecto</th>
+      <th>Segundo Proyecto</th>
+    </tr>
+    <tr>
+      <th>Tercer Proyecto</th>
+      <th>Cuarto Proyecto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Fila de imágenes 1 -->
+    <tr align="center">
+      <td>
+        <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200">
+      </td>
+      <td>
+        <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200">
+      </td>
+    </tr>
+    <!-- Fila de imágenes 2 -->
+    <tr align="center">
+      <td>
+        <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200">
+      </td>
+      <td>
+        <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200">
+      </td>
+    </tr>
+    <!-- Botones de acción fila 1 -->
+    <tr align="center">
+      <td>
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+      </td>
+    </tr>
+    <!-- Botones de acción fila 2 -->
+    <tr align="center">
+      <td>
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
+      </td>
+    </tr>
+    <!-- Descripción fila 1 -->
+    <tr>
+      <td>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore corporis tenetur adipisci tempore...</p>
+      </td>
+      <td>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium repellat perferendis reprehenderit...</p>
+      </td>
+    </tr>
+    <!-- Descripción fila 2 -->
+    <tr>
+      <td>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore corporis tenetur adipisci tempore...</p>
+      </td>
+      <td>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium repellat perferendis reprehenderit...</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 
