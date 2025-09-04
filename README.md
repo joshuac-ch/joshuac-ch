@@ -44,18 +44,14 @@
 ![java](https://img.shields.io/badge/java-white?style=for-the-badge&logo=coffeescript&logoColor=ED8B00)
 
 ![c#](https://img.shields.io/badge/-C%20sharp%20-%23512BD4?logo=csharp&logoColor=%23512BD4&logoSize=20&labelColor=white&color=%23512BD4)
+![SQLLITE3](https://img.shields.io/badge/-SQLite3-%23512BD4?logo=sqlite&logoColor=%23003B57&logoSize=20&labelColor=white&color=%23003B57)
 ![MONGODB](https://img.shields.io/badge/-MongoDB-%23512BD4?logo=mongodb&logoColor=%2347A248&logoSize=20&labelColor=white&color=%2347A248)
 ![MYSQL](https://img.shields.io/badge/-MySQL-%23512BD4?logo=mysql&logoColor=%234479A1&logoSize=20&labelColor=white&color=%234479A1)
 ![MICROSOFSERVER](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23512BD4?logo=microsoftsqlserver&logoColor=%23CC2927&logoSize=20&labelColor=white&color=%23CC2927)
 ![HTML5](https://img.shields.io/badge/-HTML%205-%23512BD4?logo=html5&logoColor=%23E34F26&logoSize=20&labelColor=white&color=%23E34F26)
-
 ![CSS 3](https://img.shields.io/badge/-CSS-%23512BD4?logo=css3&logoColor=%231572B6&logoSize=20&labelColor=white&color=%231572B6)
-![SQLLITE3](https://img.shields.io/badge/-SQLite3-%23512BD4?logo=sqlite&logoColor=%23003B57&logoSize=20&labelColor=white&color=%23003B57)
-![VERSION BLACK](https://img.shields.io/badge/-visual%20studio%20Code-%23512BD4?logo=visualstudiocode&logoColor=%23007ACC&logoSize=20&labelColor=black&color=%23007ACC)
-![VISUAL ESTUDIO](https://img.shields.io/badge/-Visual%20Studio-%23512BD4?logo=visualstudio&logoColor=%235C2D91&logoSize=20&labelColor=black&color=%235C2D91)
 ![GIT](https://img.shields.io/badge/-Git-%23512BD4?logo=git&logoColor=%23F05032&logoSize=20&labelColor=white&color=%23F05032)
 ![GIT HUB](https://img.shields.io/badge/-GitHub-%23512BD4?logo=github&logoColor=%23181717&logoSize=20&labelColor=white&color=%23181717)
-<img width="70" height="40" alt="docker_button_icon_151885" src="https://github.com/user-attachments/assets/14034bb7-7516-4ae6-95bb-453420e2a59d" />
 
 ![Kuberntes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![dokcer](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
