@@ -79,32 +79,19 @@ MEJORES PROYECTO
     <tr>
       <th>Primer Proyecto</th>
       <th>Segundo Proyecto</th>
-    </tr>
-    <tr>
       <th>Tercer Proyecto</th>
       <th>Cuarto Proyecto</th>
     </tr>
   </thead>
   <tbody>
-    <!-- Fila de imágenes 1 -->
+    <!-- Fila de imágenes -->
     <tr align="center">
-      <td>
-        <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200">
-      </td>
-      <td>
-        <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200">
-      </td>
+      <td><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200"></td>
+      <td><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200"></td>
+      <td><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200"></td>
+      <td><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200"></td>
     </tr>
-    <!-- Fila de imágenes 2 -->
-    <tr align="center">
-      <td>
-        <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200">
-      </td>
-      <td>
-        <img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="200">
-      </td>
-    </tr>
-    <!-- Botones de acción fila 1 -->
+    <!-- Fila de botones -->
     <tr align="center">
       <td>
         <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
@@ -114,9 +101,6 @@ MEJORES PROYECTO
         <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
         <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
       </td>
-    </tr>
-    <!-- Botones de acción fila 2 -->
-    <tr align="center">
       <td>
         <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
         <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
@@ -126,23 +110,12 @@ MEJORES PROYECTO
         <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=%23181717&labelColor=white&color=%23181717">
       </td>
     </tr>
-    <!-- Descripción fila 1 -->
+    <!-- Fila de descripciones -->
     <tr>
-      <td>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore corporis tenetur adipisci tempore...</p>
-      </td>
-      <td>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium repellat perferendis reprehenderit...</p>
-      </td>
-    </tr>
-    <!-- Descripción fila 2 -->
-    <tr>
-      <td>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore corporis tenetur adipisci tempore...</p>
-      </td>
-      <td>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium repellat perferendis reprehenderit...</p>
-      </td>
+      <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
+      <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
+      <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
+      <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
     </tr>
   </tbody>
 </table>
