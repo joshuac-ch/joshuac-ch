@@ -129,7 +129,8 @@ MEJORES PROYECTO
     <tr>
       <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
       <td>
-          <p>Convierte tus archivos de Excel en reportes inteligentes en segundos usando solo lenguaje natural. MCP-Server amplía las capacidades de Claude para análisis y visualización de datos.</p>
+          <p>Convierte tus archivos de Excel en reportes inteligentes en segundos usando solo lenguaje natural.</p>
+          <p>MCP-Server amplía las capacidades de Claude para análisis y visualización de datos.</p>
           <ul>
               <li>📊 Genera resúmenes automáticos de tablas.</li>
               <li>🔗 Calcula correlaciones entre variables.</li>
