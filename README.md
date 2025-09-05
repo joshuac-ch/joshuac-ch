@@ -128,8 +128,10 @@ MEJORES PROYECTO
     <!-- Fila de descripciones -->
     <tr>
       <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
-      <td><p>Con este MCP puedes analizar tus datos en segundos usando solo lenguaje natural,
-          ampliando las capacidades de Claude para el análisis de datos.</p></td>
+      <td aling="center"><p>Con este MCP puedes analizar tus datos en segundos usando solo lenguaje natural,
+          ampliando las capacidades de Claude para el análisis de datos.
+          Analiza y visualiza tus datos en segundos con lenguaje natural: potencia Excel con Claude gracias a MCP-server.
+      </p></td>
     </tr>
   </tbody>
 </table>
