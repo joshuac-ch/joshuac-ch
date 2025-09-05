@@ -107,7 +107,7 @@ MEJORES PROYECTO
     <!-- Segunda fila -->
     <tr>
       <th>Tercer Proyecto</th>
-      <th>MCP-EXCEL</th>
+      <th>MCP-Server | Excel + Claude</th>
     </tr>
     <!-- Fila de imágenes -->
      <tr>
@@ -128,10 +128,9 @@ MEJORES PROYECTO
     <!-- Fila de descripciones -->
     <tr>
       <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
-      <td aling="center"><p>Con este MCP puedes analizar tus datos en segundos usando solo lenguaje natural,
-          ampliando las capacidades de Claude para el análisis de datos.
-          Analiza y visualiza tus datos en segundos con lenguaje natural: potencia Excel con Claude gracias a MCP-server.
-      </p></td>
+      <td>
+          <p>Convierte tus archivos de Excel en reportes inteligentes en segundos usando solo lenguaje natural. MCP-Server amplía las capacidades de Claude para análisis y visualización de datos.</p>
+      </td>
     </tr>
   </tbody>
 </table>
