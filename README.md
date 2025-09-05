@@ -1,4 +1,4 @@
-<img width="793" height="550" alt="mcpgit" src="https://github.com/user-attachments/assets/a44133b6-1eda-456d-8795-16b5f86dbd9a" /><div align="center">
+<div align="center">
     <img src="https://github.com/user-attachments/assets/c33975c1-b8b3-4518-ab25-78634c52b50c"  style="border-radius: 15px;">
     
     
