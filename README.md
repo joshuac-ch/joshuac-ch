@@ -1,4 +1,4 @@
-<div align="center">
+<img width="793" height="550" alt="mcpgit" src="https://github.com/user-attachments/assets/a44133b6-1eda-456d-8795-16b5f86dbd9a" /><div align="center">
     <img src="https://github.com/user-attachments/assets/c33975c1-b8b3-4518-ab25-78634c52b50c"  style="border-radius: 15px;">
     
     
@@ -107,12 +107,12 @@ MEJORES PROYECTO
     <!-- Segunda fila -->
     <tr>
       <th>Tercer Proyecto</th>
-      <th>Cuarto Proyecto</th>
+      <th>MCP-EXCEL</th>
     </tr>
     <!-- Fila de imágenes -->
     <tr>
       <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%"></td>
-      <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%"></td>
+      <td align="center"><img width="793" height="550" alt="mcpgit" src="https://github.com/user-attachments/assets/7e037acd-2241-4e7d-a95a-c23a7e208395" /></td>
     </tr>
     <!-- Fila de botones -->
     <tr align="center">
@@ -128,7 +128,8 @@ MEJORES PROYECTO
     <!-- Fila de descripciones -->
     <tr>
       <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
-      <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
+      <td><p>Con este MCP puedes analizar tus datos en segundos usando solo lenguaje natural,
+          ampliando las capacidades de Claude para el análisis de datos.</p></td>
     </tr>
   </tbody>
 </table>
