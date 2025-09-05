@@ -110,9 +110,9 @@ MEJORES PROYECTO
       <th>MCP-EXCEL</th>
     </tr>
     <!-- Fila de imágenes -->
-    <tr>
+     <tr>
       <td align="center"><img src="https://i.pinimg.com/564x/df/b9/ea/dfb9eaee5de43642134e5a37644ba438.jpg" width="100%"></td>
-      <td align="center"><img width="793" height="550" alt="mcpgit" src="https://github.com/user-attachments/assets/7e037acd-2241-4e7d-a95a-c23a7e208395" /></td>
+      <td align="center"> <img width="578" height="331" alt="mcpbanner" src="https://github.com/user-attachments/assets/3b71759a-bcb8-40a5-bb06-b362316c25c7" /></td>
     </tr>
     <!-- Fila de botones -->
     <tr align="center">
