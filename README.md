@@ -118,11 +118,11 @@ MEJORES PROYECTO
     <tr align="center">
       <td>
         <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">       
-        [<img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">](https://github.com/user-attachments/assets/3898864f-3f0b-41bb-a359-30f6ec18534c)
+        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
       </td>
       <td>
         <img src="https://img.shields.io/badge/-Codigo%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
-        <img src="https://img.shields.io/badge/-Muestra%20-%23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717">
+        <img src="https://img.shields.io/badge/Muestra-23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717&link=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F3898864f-3f0b-41bb-a359-30f6ec18534c">
       </td>
     </tr>
     <!-- Fila de descripciones -->
