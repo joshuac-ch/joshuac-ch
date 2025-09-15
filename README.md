@@ -127,7 +127,15 @@ MEJORES PROYECTO
     </tr>
     <!-- Fila de descripciones -->
     <tr>
-      <td><p>Lorem ipsum dolor sit amet consectetur adipisicing elit...</p></td>
+      <td>
+          <p>Centraliza todos tus datos en un solo lugar ya sea una base de datos sql como no sql usando solo lenguaje natural.</p>
+          <p>MCP-Prisma amplia las capacidades de Claudad para tus analisis de datos de forma rapida y sencilla</p>
+          <ul>
+              <li>🔗 Conexión multi-base de datos: MySQL, PostgreSQL y MongoDB.</li>
+              <li>⚡ Consultas a cualquier tabla y análisis en segundos, sin código.</li>
+              <li>⏱  Obtén resúmenes claros con una sola petición.</li>
+          </ul>
+      </td>
       <td>
           <p>Convierte tus archivos de Excel en reportes inteligentes en segundos usando solo lenguaje natural.</p>
           <p>MCP-Server amplía las capacidades de Claude para análisis y visualización de datos.</p>
