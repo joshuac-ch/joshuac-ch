@@ -68,7 +68,7 @@
 - 💞️ I am always open to new challenges and opportunities to collaborate on interesting projects.
 - 📫 How to contact me by gmail as condorenajoshua98@gmail.com or by the QR code at the beginning.
 - 😄 Pronouns: Josh.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ....
 
 
 MEJORES PROYECTO
