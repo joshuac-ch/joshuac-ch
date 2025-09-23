@@ -130,7 +130,7 @@ MEJORES PROYECTO
           <p>MCP-Prisma amplia las capacidades de Claudad para tus analisis de datos de forma rapida y sencilla</p>
           <ul>
               <li>🔗 Conexión multi-base de datos: MySQL, PostgreSQL y MongoDB.</li>
-              <li>⚡ Consultas a cualquier tabla y análisis en segundos, sin código.</li>
+              <li>⚡ Consultas a cualquier tabla y análisis en segundos, sin código. </li>
               <li>⏱  Obtén resúmenes claros con una sola petición.</li>
           </ul>
       </td>
