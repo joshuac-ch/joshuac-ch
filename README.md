@@ -67,7 +67,7 @@
 - 🌱 My interests span frontend and backend development. I am currently deepening my knowledge in NEXT.JS to improve my skills and stay ahead in the rapidly evolving technology landscape.
 - 💞️ I am always open to new challenges and opportunities to collaborate on interesting projects.
 - 📫 How to contact me by gmail as condorenajoshua98@gmail.com or by the QR code at the beginning.
-- 😄 Pronouns: Josh.
+- 😄 Pronouns: Josh. 
 - ⚡ Fun fact: ....
 
 
