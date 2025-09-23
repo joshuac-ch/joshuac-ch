@@ -140,7 +140,7 @@ MEJORES PROYECTO
           <ul>
               <li>📊 Genera resúmenes automáticos de tablas.</li>
               <li>🔗 Calcula correlaciones entre variables.</li>
-              <li>⏱ Ahorra tiempo, sin escribir código.</li>
+              <li>⏱ Ahorra tiempo, sin escribir código. </li>
           </ul>
       </td>
     </tr>
