@@ -109,7 +109,7 @@ MEJORES PROYECTO
       <th>MCP-Prisma | Motor Multi-DB y Multi-Conexión</th>
       <th>MCP-Server | Excel + Claude</th>
     </tr>
-    <!-- Fila de imágenes -->
+    <!-- Fila de imágenes a-->
      <tr>
       <td align="center"><img width="574" height="351" alt="miniaturaprisma" src="https://github.com/user-attachments/assets/8341ea27-3eba-4125-b4f9-27a49de9c526" /></td>      
       <td align="center"> <img width="578" height="331" alt="mcpbanner" src="https://github.com/user-attachments/assets/3b71759a-bcb8-40a5-bb06-b362316c25c7" /></td>
