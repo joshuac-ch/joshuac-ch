@@ -123,7 +123,7 @@ MEJORES PROYECTO
         <img src="https://img.shields.io/badge/Muestra-23512BD4?logo=github&logoColor=181717&labelColor=white&color=181717&link=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F6f26147d-3a7e-42ed-a188-83550b546975">
      </td>   
     </tr>
-    <!-- Fila de descripciones -->
+    <!-- Fila de descripciones  -->
     <tr>
       <td>
           <p>Centraliza todos tus datos en un solo lugar ya sea una base de datos sql como no sql usando solo lenguaje natural.</p>
